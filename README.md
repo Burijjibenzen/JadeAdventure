@@ -14,3 +14,4 @@ Hey, guys!
 - 有有趣的剧情交互和游戏设定！
 
 **游戏预览视频**
+https://www.bilibili.com/video/BV11qRVY4EGF/?share_source=copy_web&vd_source=494ec6934a76f904c68821807a0efdc3
