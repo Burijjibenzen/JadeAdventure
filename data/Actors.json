@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"周征宇战斗","characterIndex":0,"characterName":"周征宇","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"周征宇","traits":[],"initialLevel":1,"maxLevel":99,"name":"周征宇","nickname":"玉石の征服者","note":"","profile":"你是一名同济大学的老师，为了在课上给同学们抽奖，你将担负起去世界各地挖矿的重要工作！"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
